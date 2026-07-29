@@ -11,3 +11,20 @@ header{
     font-size: 32px;
     color: gold;
 }
+
+.capa {
+color: bisque;
+font-size: 20px;
+}
+
+#heroi{
+    display: flex;
+    padding-left: 200px;
+
+}
+
+.videos{
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
